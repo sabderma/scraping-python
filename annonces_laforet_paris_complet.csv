@@ -1,0 +1,331 @@
+type,prix,surface,nb_pieces,localisation,details
+Appartement,597 000 €,77 m²,4 pièces,Paris 20 (75020),Ascenseur • 1 salle d'eau • Balcon
+Appartement,300 000 €,33 m²,2 pièces,Paris 11 (75011),Sous-sol • 1 cave • 1 salle d'eau
+Appartement,189 000 €,20 m²,1 pièces,Paris 20 (75020),1 salle d'eau
+Appartement,300 000 €,31 m²,2 pièces,Paris 18 (75018),Cheminée • Terrasse • 2 caves • 1 salle de bain
+Appartement,285 000 €,28 m²,2 pièces,Paris 14 (75014),1 cave • 1 salle d'eau
+Appartement,143 000 €,14 m²,1 pièces,Paris 15 (75015),1 salle d'eau
+Appartement,532 500 €,48 m²,3 pièces,Paris 13 (75013),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,410 500 €,41 m²,2 pièces,Paris 15 (75015),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,349 000 €,28 m²,2 pièces,Paris 15 (75015),1 salle d'eau
+Appartement,489 500 €,52 m²,3 pièces,Paris 11 (75011),1 cave • 1 salle d'eau
+Appartement,355 000 €,33 m²,2 pièces,Paris 15 (75015),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,550 000 €,51 m²,3 pièces,Paris 11 (75011),1 cave • 1 salle d'eau
+Appartement,150 000 €,15 m²,1 pièces,Paris 19 (75019),Cheminée • 1 cave
+Appartement,570 000 €,74 m²,3 pièces,Paris 11 (75011),1 cave • 1 salle de bain
+Appartement,315 000 €,31 m²,2 pièces,Paris 17 (75017),1 salle d'eau
+Appartement,189 000 €,12 m²,1 pièces,Paris 03 (75003),1 salle de bain
+Appartement,420 000 €,66 m²,3 pièces,Paris 19 (75019),Ascenseur • 1 cave • 1 salle de bain • Balcon
+Appartement,610 000 €,65 m²,3 pièces,Paris 13 (75013),Accès handicapé • Ascenseur • 1 salle de bain • Parking
+Appartement,150 000 €,31 m²,2 pièces,Paris 19 (75019),1 salle d'eau
+Appartement,280 000 €,28 m²,1 pièces,Paris 10 (75010),Ascenseur • 1 salle de bain
+Appartement,459 000 €,44 m²,2 pièces,Paris 16 (75016),Ascenseur • 1 cave • 1 salle de bain • Balcon
+Appartement,690 000 €,60 m²,2 pièces,Paris 04 (75004),Cheminée • Ascenseur • 1 cave • 1 salle de bain
+Appartement,1 150 000 €,91 m²,4 pièces,Paris 18 (75018),Cheminée • 3 caves • 1 salle de bain • 1 salle d'eau
+Appartement,462 000 €,49 m²,3 pièces,Paris 15 (75015),1 cave • 1 salle de bain
+Appartement,339 000 €,32 m²,2 pièces,Paris 15 (75015),1 cave • 1 salle d'eau
+Appartement,630 000 €,61 m²,3 pièces,Paris 11 (75011),Ascenseur • 1 cave • 1 salle de bain
+Appartement,162 000 €,16 m²,1 pièces,Paris 11 (75011),1 salle d'eau
+Appartement,60 000 €,7 m²,1 pièces,Paris 10 (75010),Ascenseur
+Appartement,520 000 €,70 m²,3 pièces,Paris 14 (75014),Accès handicapé • Ascenseur • 1 cave • 1 salle de bain
+Appartement,345 000 €,36 m²,2 pièces,Paris 14 (75014),1 cave • 1 salle de bain
+Appartement,459 000 €,48 m²,3 pièces,Paris 10 (75010),1 salle de bain
+Appartement,431 000 €,44 m²,3 pièces,Paris 10 (75010),1 cave • 1 salle d'eau
+Appartement,378 000 €,37 m²,2 pièces,Paris 10 (75010),Cheminée • 1 cave • 1 salle d'eau
+Appartement,371 000 €,43 m²,2 pièces,Paris 10 (75010),1 salle de bain
+Appartement,949 000 €,84 m²,3 pièces,Paris 08 (75008),Ascenseur • 1 cave • 1 salle de bain
+Appartement,825 000 €,92 m²,4 pièces,Paris 20 (75020),Terrasse • Accès handicapé • Ascenseur • 1 cave
+Appartement,170 000 €,21 m²,2 pièces,Paris 18 (75018),1 cave • 1 salle d'eau
+Appartement,560 000 €,51 m²,1 pièces,Paris (75009),Ascenseur • 1 cave • 1 salle de bain
+Appartement,730 000 €,80 m²,4 pièces,Paris 14 (75014),Ascenseur • 1 cave • 1 salle de bain
+Appartement,950 000 €,107 m²,4 pièces,Paris 10 (75010),Cheminée • 1 cave • 1 salle de bain
+Appartement,750 000 €,73 m²,3 pièces,Paris 02 (75002),1 salle de bain
+Appartement,380 000 €,39 m²,2 pièces,Paris 10 (75010),1 cave • 1 salle d'eau
+Appartement,375 000 €,47 m²,2 pièces,Paris 18 (75018),
+Appartement,367 000 €,34 m²,2 pièces,Paris 09 (75009),1 salle d'eau
+Appartement,364 000 €,29 m²,1 pièces,Paris 11 (75011),Ascenseur • 1 cave • 1 salle de bain • Parking
+Appartement,274 000 €,38 m²,2 pièces,Paris 18 (75018),1 salle d'eau
+Appartement,370 000 €,31 m²,2 pièces,Paris 11 (75011),Cheminée • 1 cave • 1 salle de bain • Balcon
+Appartement,573 000 €,62 m²,3 pièces,Paris 10 (75010),
+Appartement,170 000 €,24 m²,1 pièces,Paris 18 (75018),
+Appartement,220 000 €,27 m²,1 pièces,Paris 15 (75015),1 salle de bain
+Appartement,311 000 €,51 m²,2 pièces,Paris 11 (75011),1 salle de bain
+Appartement,1 664 000 €,121 m²,4 pièces,Paris 08 (75008),Terrasse • Ascenseur • Garage • 1 cave
+Appartement,848 000 €,77 m²,4 pièces,Paris 16 (75016),1 salle de bain
+Appartement,500 000 €,58 m²,2 pièces,Paris 17 (75017),Ascenseur • 1 salle de bain
+Appartement,735 000 €,67 m²,3 pièces,Paris 03 (75003),Cheminée
+Appartement,367 000 €,32 m²,2 pièces,Paris (75020),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,550 000 €,26 m²,1 pièces,Paris 03 (75003),1 salle d'eau
+Appartement,580 000 €,69 m²,3 pièces,Paris 20 (75020),
+Appartement,220 000 €,21 m²,1 pièces,Paris 10 (75010),1 salle d'eau
+Appartement,884 000 €,93 m²,4 pièces,Paris 15 (75015),Ascenseur • 1 cave • 1 salle d'eau • Balcon
+Appartement,462 526 €,46 m²,2 pièces,Paris 15 (75015),1 cave • 1 salle d'eau
+Appartement,338 000 €,25 m²,1 pièces,Paris 04 (75004),1 salle d'eau
+Appartement,641 000 €,57 m²,2 pièces,Paris 15 (75015),Ascenseur • 1 salle de bain
+Appartement,326 000 €,28 m²,1 pièces,Paris 11 (75011),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,253 000 €,28 m²,2 pièces,Paris 18 (75018),2 caves • 1 salle d'eau
+Appartement,690 000 €,60 m²,2 pièces,Paris 04 (75004),Cheminée • Ascenseur • 1 cave • 1 salle de bain
+Appartement,1 450 000 €,120 m²,4 pièces,Paris 16 (75016),Ascenseur • 2 caves • 1 salle de bain • 1 salle d'eau
+Appartement,135 000 €,15 m²,1 pièces,Paris 17 (75017),1 cave • 1 salle de bain
+Appartement,444 000 €,46 m²,2 pièces,Paris 15 (75015),1 cave • 1 salle d'eau
+Appartement,583 000 €,63 m²,2 pièces,Paris 16 (75016),Ascenseur • 1 cave • 1 salle de bain • Parking
+Appartement,349 800 €,42 m²,2 pièces,Paris 12 (75012),1 cave • 1 salle d'eau
+Appartement,469 000 €,61 m²,3 pièces,Paris 20 (75020),Ascenseur • 1 cave • 1 salle de bain • Balcon
+Appartement,299 990 €,28 m²,1 pièces,Paris 11 (75011),1 salle d'eau
+Appartement,278 000 €,23 m²,1 pièces,Paris 20 (75020),
+Appartement,444 000 €,36 m²,2 pièces,Paris 11 (75011),Cheminée • 1 cave • 1 salle d'eau
+Appartement,1 100 000 €,72 m²,3 pièces,Paris 04 (75004),Ascenseur • 1 cave • 1 salle de bain
+Appartement,620 000 €,67 m²,3 pièces,Paris 19 (75019),Ascenseur • 1 cave • 1 salle de bain • Balcon
+Appartement,595 000 €,74 m²,4 pièces,Paris 20 (75020),2 caves • 1 salle de bain
+Appartement,520 000 €,90 m²,4 pièces,Paris 19 (75019),Ascenseur • 1 cave • 1 salle de bain • 1 salle d'eau
+Appartement,160 000 €,18 m²,1 pièces,Paris 15 (75015),1 salle d'eau
+Appartement,779 000 €,81 m²,4 pièces,Paris 14 (75014),Ascenseur • 1 cave • 1 salle de bain
+Appartement,1 545 000 €,125 m²,5 pièces,Paris 04 (75004),Cheminée • Ascenseur • 1 cave • 2 salles d'eau
+Appartement,687 000 €,50 m²,2 pièces,Paris 03 (75003),1 cave
+Appartement,449 000 €,35 m²,2 pièces,Paris 03 (75003),Ascenseur • 1 salle de bain
+Appartement,579 000 €,53 m²,2 pièces,Paris 11 (75011),1 cave • 1 salle de bain
+Appartement,440 000 €,46 m²,3 pièces,Paris 10 (75010),1 salle d'eau
+Appartement,579 000 €,53 m²,2 pièces,Paris 12 (75012),1 cave • 1 salle de bain
+Appartement,548 000 €,62 m²,3 pièces,Paris 16 (75016),1 cave • 1 salle de bain
+Appartement,600 000 €,67 m²,2 pièces,Paris 16 (75016),Ascenseur • 1 cave • 1 salle de bain • Balcon
+Appartement,183 000 €,19 m²,1 pièces,Paris 10 (75010),1 salle d'eau
+Appartement,193 000 €,16 m²,1 pièces,Paris 04 (75004),1 salle d'eau
+Appartement,590 000 €,79 m²,3 pièces,Paris 20 (75020),Ascenseur • 1 cave • 1 salle de bain
+Appartement,210 000 €,21 m²,1 pièces,Paris 14 (75014),Cheminée
+Appartement,210 000 €,21 m²,2 pièces,Paris 14 (75014),Cheminée
+Appartement,1 730 000 €,137 m²,6 pièces,Paris 07 (75007),Cheminée • Ascenseur • 1 cave • 1 salle de bain
+Appartement,450 000 €,45 m²,2 pièces,Paris 15 (75015),Ascenseur • 1 cave • 1 salle de bain
+Appartement,117 700 €,10 m²,1 pièces,Paris 05 (75005),
+Appartement,445 000 €,33 m²,2 pièces,Paris 16 (75016),1 salle d'eau
+Appartement,1 090 000 €,94 m²,4 pièces,Paris 09 (75009),Cheminée • 1 cave • 1 salle de bain
+Appartement,698 500 €,100 m²,5 pièces,Paris 12 (75012),Ascenseur • Sous-sol • 1 cave • 1 salle de bain
+Appartement,698 500 €,100 m²,5 pièces,Paris 12 (75012),Ascenseur • Sous-sol • 1 cave • 1 salle de bain
+Appartement,929 000 €,104 m²,5 pièces,Paris 20 (75020),Ascenseur • 1 cave • 1 salle de bain • 1 salle d'eau
+Appartement,849 000 €,84 m²,4 pièces,Paris 12 (75012),Ascenseur • 1 cave • 1 salle de bain
+Appartement,786 000 €,72 m²,3 pièces,Paris 12 (75012),Ascenseur • 1 salle de bain
+Appartement,679 000 €,60 m²,2 pièces,Paris 04 (75004),Ascenseur • 1 cave • 1 salle de bain
+Appartement,385 000 €,62 m²,2 pièces,Paris 20 (75020),1 salle d'eau
+Appartement,344 000 €,33 m²,2 pièces,Paris 12 (75012),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,329 000 €,34 m²,2 pièces,Paris 11 (75011),Ascenseur • 1 salle d'eau
+Appartement,149 000 €,14 m²,1 pièces,Paris 12 (75012),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,884 000 €,93 m²,4 pièces,Paris 15 (75015),Ascenseur • 1 cave • 1 salle d'eau • Balcon
+Appartement,585 000 €,75 m²,3 pièces,Paris 14 (75014),Accès handicapé • Ascenseur • 1 cave • 1 salle de bain
+Appartement,570 000 €,63 m²,3 pièces,Paris 14 (75014),Cheminée • 1 cave • 1 salle d'eau
+Appartement,135 000 €,16 m²,1 pièces,Paris 18 (75018),
+Appartement,528 000 €,53 m²,2 pièces,Paris 11 (75011),Ascenseur • Sous-sol • 1 cave • 1 salle d'eau
+Appartement,617 000 €,60 m²,4 pièces,Paris 15 (75015),Cheminée • Ascenseur • 1 cave • 1 salle d'eau
+Appartement,895 000 €,69 m²,3 pièces,Paris 15 (75015),Terrasse • 1 cave • 1 salle d'eau • Parking
+Appartement,730 500 €,78 m²,4 pièces,Paris 15 (75015),Ascenseur • Sous-sol • 1 cave • 2 salles d'eau
+Appartement,1 150 000 €,91 m²,4 pièces,Paris 18 (75018),Cheminée • 3 caves • 1 salle de bain • 1 salle d'eau
+Appartement,1 150 000 €,91 m²,4 pièces,Paris 18 (75018),Cheminée • 3 caves • 1 salle de bain • 1 salle d'eau
+Appartement,180 000 €,14 m²,1 pièces,Paris 11 (75011),1 salle d'eau
+Appartement,3 270 000 €,192 m²,5 pièces,Paris 08 (75008),Cheminée • Ascenseur • 1 cave • 1 salle de bain
+Appartement,410 000 €,38 m²,2 pièces,Paris 12 (75012),1 cave • 1 salle d'eau
+Appartement,455 000 €,53 m²,2 pièces,Paris 14 (75014),1 cave • 1 salle d'eau
+Appartement,509 500 €,44 m²,2 pièces,Paris 16 (75016),Ascenseur • 1 cave • 1 salle de bain • Balcon
+Appartement,899 000 €,130 m²,5 pièces,Montreuil (93100),Cheminée • 1 salle de bain • 1 salle d'eau • Balcon
+Appartement,899 000 €,130 m²,5 pièces,Paris (75019),Cheminée • 1 salle de bain • 1 salle d'eau • Balcon
+Appartement,899 000 €,130 m²,5 pièces,Paris (75018),Cheminée • 1 salle de bain • 1 salle d'eau • Balcon
+Appartement,899 000 €,130 m²,5 pièces,Paris (75018),Cheminée • 1 salle de bain • 1 salle d'eau • Balcon
+Appartement,525 000 €,58 m²,3 pièces,Paris 13 (75013),Terrasse • Ascenseur • 1 cave • 1 salle de bain
+Appartement,525 000 €,58 m²,2 pièces,Paris 13 (75013),Terrasse • Ascenseur • 1 cave • 1 salle de bain
+Appartement,357 000 €,37 m²,2 pièces,Paris 14 (75014),1 cave • 1 salle de bain
+Appartement,295 000 €,30 m²,1 pièces,Paris 12 (75012),1 salle d'eau
+Appartement,1 042 000 €,83 m²,4 pièces,Paris 09 (75009),1 cave • 1 salle de bain • 1 salle d'eau
+Appartement,645 000 €,82 m²,3 pièces,Paris 09 (75009),1 salle d'eau
+Appartement,475 000 €,52 m²,3 pièces,Paris 15 (75015),Ascenseur • 1 cave • 1 salle de bain
+Maison,1 400 000 €,126 m²,6 pièces,Paris 19 (75019),Terrasse • 2 salles de bain
+Appartement,617 000 €,60 m²,4 pièces,Paris 15 (75015),Cheminée • Ascenseur • 1 cave • 1 salle d'eau
+Appartement,430 000 €,46 m²,2 pièces,Paris 11 (75011),Sous-sol • 1 salle de bain
+Appartement,925 000 €,97 m²,5 pièces,Paris 09 (75009),1 salle d'eau
+Appartement,925 000 €,112 m²,5 pièces,Paris 11 (75011),Terrasse • Accès handicapé • Ascenseur • Sous-sol
+Appartement,609 000 €,86 m²,4 pièces,Paris 20 (75020),
+Appartement,609 000 €,86 m²,4 pièces,Paris 20 (75020),
+Appartement,115 500 €,9 m²,1 pièces,Paris 05 (75005),Ascenseur • 1 salle de bain
+Appartement,819 000 €,84 m²,4 pièces,Paris 11 (75011),Cheminée • 1 cave • 2 salles de bain
+Appartement,699 000 €,76 m²,5 pièces,Paris 16 (75016),Ascenseur • 1 cave • 1 salle de bain • Balcon
+Appartement,699 000 €,76 m²,4 pièces,Paris 16 (75016),Ascenseur • 1 cave • 1 salle de bain • Balcon
+Appartement,1 597 000 €,86 m²,3 pièces,Paris 07 (75007),Cheminée • 1 salle de bain
+Appartement,760 000 €,87 m²,4 pièces,Paris 10 (75010),Cheminée • 1 cave • 1 salle de bain
+Appartement,650 000 €,58 m²,3 pièces,Paris 13 (75013),
+Maison,5 400 000 €,260 m²,10 pièces,Paris 18 (75018),Surf. terrain : 109 m² • Terrasse • 1 cave • Balcon
+Appartement,48 000 €,10 m²,1 pièces,Paris 09 (75009),
+Maison,1 400 000 €,126 m²,6 pièces,Paris 20 (75020),Terrasse • 2 salles de bain
+Appartement,165 000 €,14 m²,1 pièces,Paris 09 (75009),1 salle d'eau
+Appartement,359 900 €,32 m²,2 pièces,Paris 16 (75016),Ascenseur • 1 salle d'eau
+Appartement,1 098 500 €,115 m²,6 pièces,Paris 15 (75015),Ascenseur • 1 cave • 2 salles de bain • Balcon
+Appartement,577 500 €,56 m²,3 pièces,Paris 12 (75012),1 cave • 1 salle d'eau
+Appartement,680 000 €,57 m²,2 pièces,Paris 14 (75014),Terrasse • Ascenseur • 1 salle d'eau • Balcon
+Appartement,570 000 €,63 m²,2 pièces,Paris 14 (75014),Cheminée • 1 cave • 1 salle d'eau
+Appartement,131 000 €,11 m²,1 pièces,Paris 12 (75012),1 salle d'eau
+Appartement,925 000 €,97 m²,5 pièces,Paris 09 (75009),1 salle d'eau
+Appartement,475 000 €,52 m²,2 pièces,Paris 15 (75015),Ascenseur • 1 cave • 1 salle de bain
+Appartement,199 500 €,20 m²,1 pièces,Paris 20 (75020),Accès handicapé • 1 cave • 1 salle d'eau
+Appartement,314 500 €,37 m²,2 pièces,Paris 18 (75018),Ascenseur • 1 salle d'eau
+Appartement,294 000 €,24 m²,1 pièces,Paris 17 (75017),Ascenseur • 1 salle de bain • Balcon
+Appartement,286 000 €,24 m²,1 pièces,Paris 15 (75015),Accès handicapé • Ascenseur • 1 salle d'eau
+Appartement,260 000 €,23 m²,1 pièces,Paris 15 (75015),Accès handicapé • Ascenseur • 1 salle d'eau
+Appartement,309 000 €,42 m²,2 pièces,Paris 15 (75015),14 caves
+Appartement,497 000 €,48 m²,2 pièces,Paris 13 (75013),Ascenseur • 1 cave • 1 salle de bain • Parking
+Appartement,910 000 €,89 m²,4 pièces,Paris 16 (75016),Ascenseur • 1 cave • 1 salle d'eau • Balcon
+Appartement,185 000 €,28 m²,1 pièces,Paris 18 (75018),Terrasse • 1 salle d'eau
+Appartement,625 000 €,78 m²,4 pièces,Paris 13 (75013),Ascenseur • 1 cave • 1 salle de bain • Balcon
+Appartement,61 000 €,7 m²,1 pièces,Paris 20 (75020),
+Appartement,379 000 €,45 m²,2 pièces,Paris 17 (75017),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,378 000 €,35 m²,2 pièces,Paris (75016),Cheminée • 1 salle d'eau
+Appartement,1 450 000 €,145 m²,5 pièces,Paris 14 (75014),Accès handicapé • Ascenseur • 1 cave • 1 salle de bain
+Appartement,925 600 €,110 m²,4 pièces,Paris 11 (75011),
+Appartement,214 000 €,19 m²,1 pièces,Paris 11 (75011),1 salle d'eau
+Appartement,185 000 €,21 m²,1 pièces,Paris 14 (75014),
+Appartement,800 000 €,58 m²,2 pièces,Paris 16 (75016),Ascenseur • 1 cave • 2 salles d'eau • Balcon
+Appartement,339 000 €,34 m²,2 pièces,Paris 13 (75013),1 salle d'eau
+Appartement,1 672 000 €,120 m²,4 pièces,Paris 16 (75016),Terrasse • Accès handicapé • Ascenseur • 1 cave
+Appartement,295 000 €,19 m²,1 pièces,Paris 17 (75017),Ascenseur • 1 salle d'eau
+Appartement,190 800 €,19 m²,1 pièces,Paris 15 (75015),1 cave • 1 salle de bain
+Appartement,740 000 €,73 m²,3 pièces,Paris 17 (75017),Ascenseur • 1 cave • 1 salle de bain
+Appartement,535 000 €,49 m²,3 pièces,Paris 17 (75017),1 cave
+Appartement,944 000 €,77 m²,3 pièces,Paris 05 (75005),Cheminée • 1 salle de bain
+Appartement,220 000 €,26 m²,2 pièces,Paris 13 (75013),Sous-sol • 1 salle de bain
+Appartement,850 000 €,77 m²,3 pièces,Paris 09 (75009),Cheminée • Ascenseur • 1 salle de bain • 1 salle d'eau
+Appartement,153 000 €,16 m²,1 pièces,Paris 13 (75013),1 salle d'eau
+Appartement,1 320 000 €,130 m²,5 pièces,Paris 11 (75011),1 salle de bain • 1 salle d'eau
+Appartement,870 000 €,65 m²,4 pièces,Paris 05 (75005),
+Appartement,335 000 €,34 m²,2 pièces,Paris 12 (75012),1 cave • 1 salle d'eau
+Appartement,493 500 €,54 m²,2 pièces,Paris 11 (75011),1 cave • 1 salle de bain
+Appartement,421 000 €,37 m²,2 pièces,Paris 17 (75017),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,405 000 €,34 m²,2 pièces,Paris 15 (75015),1 cave
+Appartement,779 000 €,88 m²,4 pièces,Paris (75020),1 salle de bain • 1 salle d'eau
+Appartement,825 000 €,89 m²,5 pièces,Paris 15 (75015),Ascenseur • Sous-sol • 1 cave • 1 salle d'eau
+Appartement,855 000 €,70 m²,3 pièces,Paris 13 (75013),Accès handicapé • Ascenseur • Sous-sol • 1 salle de bain
+Appartement,789 000 €,80 m²,4 pièces,Paris 13 (75013),Accès handicapé • Ascenseur • 1 cave • 1 salle d'eau
+Appartement,420 000 €,27 m²,2 pièces,Paris 06 (75006),Ascenseur
+Appartement,258 000 €,19 m²,1 pièces,Paris 06 (75006),
+Appartement,608 600 €,80 m²,4 pièces,Paris 13 (75013),Ascenseur • Sous-sol • 1 cave • 1 salle de bain
+Appartement,1 180 000 €,98 m²,4 pièces,Paris 16 (75016),Ascenseur • 1 cave • 2 salles d'eau
+Appartement,500 000 €,58 m²,2 pièces,Paris 17 (75017),Ascenseur • 1 salle de bain
+Appartement,899 000 €,108 m²,5 pièces,Paris 20 (75020),Terrasse • Ascenseur • 2 caves • 1 salle de bain
+Appartement,315 000 €,33 m²,1 pièces,Paris 11 (75011),Ascenseur • Sous-sol • 1 cave • 1 salle de bain
+Appartement,1 390 000 €,112 m²,4 pièces,Paris 09 (75009),Garage • 1 cave • 1 salle d'eau
+Appartement,428 000 €,49 m²,2 pièces,Paris 11 (75011),
+Appartement,42 000 €,8 m²,1 pièces,Paris 17 (75017),
+Appartement,2 800 000 €,252 m²,8 pièces,Paris 16 (75016),Cheminée • Ascenseur • 1 cave • 2 salles de bain
+Appartement,875 000 €,71 m²,3 pièces,Paris (75003),
+Appartement,600 000 €,78 m²,4 pièces,Paris 18 (75018),1 cave • 1 salle de bain
+Appartement,446 250 €,45 m²,2 pièces,Paris 17 (75017),Cheminée • 1 cave • 1 salle d'eau
+Appartement,428 000 €,49 m²,2 pièces,Paris 20 (75020),
+Appartement,310 000 €,38 m²,2 pièces,Paris 20 (75020),Ascenseur • 1 cave • 1 salle de bain
+Appartement,197 000 €,25 m²,1 pièces,Paris 18 (75018),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,695 000 €,60 m²,2 pièces,Paris 02 (75002),1 cave • 1 salle de bain
+Appartement,649 000 €,55 m²,2 pièces,Paris 16 (75016),Ascenseur • 1 cave • 1 salle de bain
+Appartement,637 000 €,64 m²,3 pièces,Paris (75012),Terrasse • Ascenseur • 1 cave • 1 salle de bain
+Appartement,987 000 €,100 m²,5 pièces,Paris 12 (75012),4 caves • 1 salle de bain • 1 salle d'eau
+Appartement,295 000 €,29 m²,2 pièces,Paris 17 (75017),
+Appartement,745 000 €,80 m²,4 pièces,Paris 15 (75015),
+Appartement,750 000 €,68 m²,2 pièces,Paris 15 (75015),Terrasse • Ascenseur • Sous-sol • 1 cave
+Appartement,174 000 €,19 m²,1 pièces,Paris 18 (75018),1 salle d'eau
+Appartement,337 000 €,35 m²,2 pièces,Paris 18 (75018),1 cave • 1 salle d'eau
+Appartement,210 000 €,23 m²,1 pièces,Paris 18 (75018),1 salle d'eau
+Appartement,549 000 €,41 m²,2 pièces,Paris 02 (75002),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,260 000 €,21 m²,1 pièces,Paris 07 (75007),1 salle d'eau
+Appartement,828 000 €,75 m²,3 pièces,Paris 11 (75011),Terrasse • Accès handicapé • Ascenseur • Sous-sol
+Appartement,1 299 000 €,126 m²,3 pièces,Paris 08 (75008),1 cave • 2 salles d'eau
+Appartement,280 000 €,31 m²,2 pièces,Paris 17 (75017),1 salle d'eau
+Appartement,699 000 €,64 m²,3 pièces,Paris 16 (75016),1 cave • 1 salle d'eau
+Appartement,690 000 €,84 m²,3 pièces,Paris 15 (75015),
+Appartement,99 500 €,11 m²,1 pièces,Paris 18 (75018),1 salle d'eau
+Appartement,190 000 €,23 m²,2 pièces,Paris 18 (75018),
+Appartement,477 000 €,51 m²,2 pièces,Paris 20 (75020),Ascenseur • 1 cave • Balcon
+Appartement,99 000 €,8 m²,1 pièces,Paris 12 (75012),1 salle d'eau
+Appartement,530 000 €,61 m²,3 pièces,Paris 10 (75010),
+Appartement,649 000 €,57 m²,2 pièces,Paris 02 (75002),1 cave • 1 salle de bain
+Appartement,680 000 €,79 m²,4 pièces,Paris 10 (75010),Ascenseur • 1 cave • Balcon
+Appartement,169 000 €,19 m²,1 pièces,Paris 10 (75010),
+Appartement,599 000 €,55 m²,3 pièces,Paris 04 (75004),Ascenseur • 1 salle de bain
+Appartement,599 000 €,55 m²,2 pièces,Paris 04 (75004),Ascenseur • 1 salle de bain
+Appartement,1 045 000 €,77 m²,3 pièces,Paris 08 (75008),Cheminée • Ascenseur • 1 cave • 1 salle de bain
+Appartement,323 000 €,37 m²,1 pièces,Paris 20 (75020),Accès handicapé • Ascenseur • 1 cave • 1 salle de bain
+Appartement,367 000 €,34 m²,2 pièces,Paris 09 (75009),1 salle d'eau
+Appartement,162 000 €,16 m²,1 pièces,Paris 11 (75011),1 salle d'eau
+Appartement,447 000 €,44 m²,2 pièces,Paris 16 (75016),Ascenseur • 1 salle d'eau
+Appartement,439 000 €,26 m²,1 pièces,Paris 01 (75001),Sous-sol • 1 cave • 1 salle d'eau
+Appartement,271 000 €,24 m²,2 pièces,Paris 15 (75015),1 salle d'eau
+Appartement,257 250 €,23 m²,1 pièces,Paris (75017),1 salle d'eau
+Appartement,666 000 €,64 m²,3 pièces,Paris 15 (75015),Ascenseur • Sous-sol • 1 cave • 1 salle de bain
+Appartement,450 000 €,39 m²,2 pièces,Paris 08 (75008),1 salle de bain
+Appartement,562 000 €,54 m²,2 pièces,Paris 15 (75015),Terrasse • Accès handicapé • Ascenseur • Sous-sol
+Appartement,819 000 €,86 m²,4 pièces,Paris 15 (75015),Ascenseur • Sous-sol • 1 cave • Balcon
+Appartement,250 000 €,34 m²,3 pièces,Paris 18 (75018),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,670 000 €,79 m²,3 pièces,Paris 12 (75012),Ascenseur • 1 cave • 1 salle de bain • Balcon
+Appartement,650 000 €,63 m²,2 pièces,Paris 16 (75016),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,295 000 €,42 m²,2 pièces,Paris 19 (75019),1 cave • 1 salle d'eau
+Appartement,250 000 €,19 m²,2 pièces,Paris 11 (75011),
+Appartement,83 000 €,7 m²,1 pièces,Paris 09 (75009),
+Appartement,2 100 000 €,144 m²,7 pièces,Paris 08 (75008),Cheminée • Ascenseur • 1 cave • 1 salle de bain
+Appartement,2 014 000 €,132 m²,4 pièces,Paris 14 (75014),
+Appartement,237 000 €,22 m²,1 pièces,Paris 15 (75015),Sous-sol • 1 cave • 1 salle d'eau
+Appartement,800 000 €,68 m²,3 pièces,Paris 17 (75017),1 cave • 1 salle de bain
+Appartement,730 000 €,51 m²,2 pièces,Paris 02 (75002),Cheminée • 1 salle d'eau
+Appartement,349 000 €,35 m²,2 pièces,Paris 20 (75020),1 cave • 1 salle d'eau
+Appartement,460 000 €,45 m²,2 pièces,Paris 05 (75005),1 cave • 1 salle d'eau
+Appartement,336 000 €,32 m²,1 pièces,Paris 17 (75017),Ascenseur • 1 cave • 1 salle de bain
+Appartement,1 469 000 €,103 m²,4 pièces,Paris 02 (75002),2 caves • 1 salle de bain • 1 salle d'eau
+Appartement,398 000 €,56 m²,2 pièces,Paris 12 (75012),Ascenseur • 1 salle d'eau
+Appartement,188 000 €,28 m²,1 pièces,Paris 18 (75018),Accès handicapé • Ascenseur • 1 cave • 1 salle de bain
+Appartement,685 000 €,68 m²,3 pièces,Paris 09 (75009),1 cave • 1 salle d'eau
+Appartement,420 000 €,37 m²,2 pièces,Paris 09 (75009),Ascenseur • 1 salle de bain
+Appartement,960 000 €,81 m²,4 pièces,Paris 11 (75011),1 cave • 1 salle de bain • 1 salle d'eau
+Appartement,950 000 €,70 m²,3 pièces,Paris 07 (75007),1 salle de bain
+Appartement,310 000 €,21 m²,1 pièces,Paris 04 (75004),1 cave • 1 salle d'eau
+Appartement,685 000 €,68 m²,3 pièces,Paris 09 (75009),1 cave • 1 salle d'eau
+Appartement,982 000 €,94 m²,4 pièces,Paris 17 (75017),Ascenseur • 1 cave • 1 salle de bain
+Appartement,800 000 €,68 m²,4 pièces,Paris 17 (75017),1 cave • 1 salle de bain
+Appartement,559 500 €,42 m²,2 pièces,Paris (75004),1 cave • 1 salle d'eau
+Appartement,845 000 €,84 m²,4 pièces,Paris (75011),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,533 000 €,56 m²,4 pièces,Paris 05 (75005),2 caves • 1 salle d'eau
+Appartement,392 000 €,38 m²,2 pièces,Paris 02 (75002),2 salles d'eau
+Appartement,699 000 €,89 m²,4 pièces,Paris 18 (75018),Ascenseur • 1 cave • 1 salle de bain • 1 salle d'eau
+Appartement,533 000 €,56 m²,4 pièces,Paris 13 (75013),Cheminée • Accès handicapé • 2 caves • 1 salle d'eau
+Appartement,155 000 €,15 m²,1 pièces,Paris 17 (75017),
+Appartement,250 000 €,20 m²,1 pièces,Paris 08 (75008),1 salle d'eau
+Appartement,800 000 €,69 m²,3 pièces,Paris 17 (75017),Cheminée • 1 salle de bain
+Appartement,1 199 000 €,105 m²,3 pièces,Paris 07 (75007),
+Appartement,2 470 000 €,122 m²,5 pièces,Paris 01 (75001),Ascenseur • 1 cave • 2 salles de bain
+Appartement,480 000 €,44 m²,2 pièces,Paris 15 (75015),Ascenseur • Sous-sol • 1 cave • 1 salle d'eau
+Appartement,635 000 €,55 m²,2 pièces,Paris (75116),Ascenseur • 1 cave • 1 salle de bain
+Appartement,392 000 €,32 m²,1 pièces,Paris 16 (75116),Ascenseur • 1 salle de bain • Balcon
+Appartement,770 000 €,73 m²,3 pièces,Paris 15 (75015),Ascenseur • 1 cave • Balcon
+Appartement,330 000 €,36 m²,2 pièces,Paris 18 (75018),Ascenseur
+Appartement,899 000 €,108 m²,5 pièces,Paris 20 (75020),Terrasse • Ascenseur • Sous-sol • 2 caves
+Appartement,800 000 €,69 m²,3 pièces,Paris 17 (75017),Cheminée • 1 salle de bain
+Appartement,1 100 000 €,76 m²,3 pièces,Paris 06 (75006),1 cave • 1 salle de bain • 1 salle d'eau
+Appartement,119 000 €,13 m²,1 pièces,Paris 10 (75010),1 salle d'eau
+Appartement,520 000 €,35 m²,1 pièces,Paris 08 (75008),Ascenseur • 1 salle d'eau
+Appartement,72 000 €,9 m²,1 pièces,Paris 20 (75020),1 salle d'eau
+Appartement,183 750 €,18 m²,1 pièces,Paris 14 (75014),1 cave • 1 salle d'eau
+Appartement,441 000 €,37 m²,1 pièces,Paris 17 (75017),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,1 130 000 €,101 m²,5 pièces,Paris 16 (75016),Cheminée • Accès handicapé • Sous-sol • 1 cave
+Appartement,2 155 000 €,156 m²,5 pièces,Paris 16 (75016),Ascenseur • Sous-sol • 1 cave • 1 salle de bain
+Appartement,800 000 €,68 m²,3 pièces,Paris 17 (75017),1 cave • 1 salle de bain
+Appartement,1 250 000 €,71 m²,3 pièces,Paris 06 (75006),Cheminée • Ascenseur • 1 cave • 1 salle de bain
+Appartement,300 000 €,40 m²,2 pièces,Paris 17 (75017),Ascenseur • 1 cave • 1 salle d'eau
+Appartement,329 000 €,60 m²,3 pièces,Paris 18 (75018),1 salle d'eau • Parking
+Appartement,3 600 000 €,254 m²,non disponible,Paris 11 (75011),
+Appartement,2 600 000 €,91 m²,3 pièces,Paris 06 (75006),
+Appartement,639 000 €,82 m²,4 pièces,Paris 19 (75019),Accès handicapé • Ascenseur • Sous-sol • Garage
+Appartement,640 500 €,49 m²,2 pièces,Paris 08 (75008),Ascenseur • 1 cave • 1 salle de bain
+Appartement,560 000 €,51 m²,1 pièces,Paris (75002),Ascenseur • 1 cave • 1 salle de bain
+Appartement,645 000 €,82 m²,3 pièces,Paris 09 (75009),1 salle d'eau
+Appartement,599 000 €,50 m²,2 pièces,Paris 02 (75002),Ascenseur • 1 salle de bain
+Appartement,1 970 000 €,182 m²,6 pièces,Paris 08 (75008),Ascenseur • 1 cave • 1 salle de bain • 1 salle d'eau
+Appartement,338 600 €,30 m²,2 pièces,Paris 05 (75005),Accès handicapé • 1 salle d'eau
+Appartement,794 000 €,83 m²,4 pièces,Paris 15 (75015),
+Appartement,1 795 000 €,122 m²,5 pièces,Paris (75016),Accès handicapé • Ascenseur • Sous-sol • 1 cave
+Appartement,899 000 €,130 m²,5 pièces,Paris 18 (75010),Cheminée • 1 salle de bain • 1 salle d'eau • Balcon
+Appartement,162 000 €,15 m²,1 pièces,Paris 02 (75002),1 salle d'eau
+Appartement,365 000 €,27 m²,1 pièces,Paris 04 (75004),Ascenseur • 1 cave • 1 salle d'eau • Balcon
+Appartement,599 000 €,67 m²,3 pièces,Paris (75016),1 salle d'eau • Meublé
+Appartement,160 000 €,25 m²,2 pièces,Paris 18 (75018),
+Appartement,120 000 €,12 m²,1 pièces,Paris 10 (75010),Ascenseur • 1 salle d'eau
+Appartement,336 000 €,36 m²,2 pièces,Paris 15 (75015),Ascenseur • 1 salle de bain
+Appartement,302 000 €,29 m²,1 pièces,Paris 10 (75010),Ascenseur • 1 salle de bain
+Appartement,230 000 €,24 m²,1 pièces,Paris 15 (75015),Ascenseur • 1 salle de bain

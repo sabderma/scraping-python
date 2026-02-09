@@ -1,0 +1,27 @@
+------------------------------------1. Répartition des produits par marque
+
+Ce graphique montre combien de téléphones chaque marque vend sur le site.
+On voit que certaines marques comme Samsung ou Apple ont beaucoup plus de modèles que les autres.
+Des marques comme Nokia ou Wiko ont très peu de produits.
+👉 Cela veut dire que la plupart des téléphones viennent de quelques grandes marques connues.
+
+
+
+----------------------------------- 2. Prix moyen par marque
+
+Ce graphique montre le prix moyen des téléphones pour chaque marque.
+Les marques comme Apple et Samsung ont les prix les plus élevés.
+Les marques comme Xiaomi, Oppo ou Wiko ont des prix plus bas.
+👉 On voit donc qu’il y a une grande différence de prix selon la marque : certaines vendent du haut de gamme, d’autres des modèles plus abordables.
+
+
+
+
+
+--------------------------------------------------3. Distribution des prix par marque (Boxplot)
+
+Ce graphique montre comment les prix changent à l’intérieur d’une même marque.
+Par exemple, Apple a des prix élevés et assez proches les uns des autres.
+Samsung a des prix très variés, donc il vend des téléphones pas chers et d’autres très chers.
+Xiaomi et Oppo ont des prix plus bas, mais aussi un peu variés.
+👉 Cela montre que chaque marque a une stratégie différente : certaines font seulement du haut de gamme, d’autres proposent plusieurs gammes de prix.
